@@ -1,0 +1,2 @@
+- Jean-Baptiste Denis [JBD]
+- using Perl for my pleasure after working a lot with R as a statistician at INRA
